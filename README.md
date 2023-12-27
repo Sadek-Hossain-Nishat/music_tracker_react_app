@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 - Project Setup
   1. Download this repository and you can download the backend source code from above backend git link but it is not necessary
   2. the project uses the live backend url
-  3. extract the 2 repository into a folder
+  3. extract the repository into a folder
   4. run 'npm install' for this repo in its project directory
   5. then run 'npm run dev' or 'yarn dev' to see this project in local environment
 - this app is deploy in netlify
